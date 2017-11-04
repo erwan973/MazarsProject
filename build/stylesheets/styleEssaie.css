@@ -1,0 +1,22 @@
+img {
+width: 340px;
+position:absolute;
+top: 30px;
+left: 370px;
+}
+
+#Connexion{
+    width:150px;
+    position:absolute;
+    height: 50px;
+    top:160px;
+    left: 130px
+}
+
+#Name{
+width:400px;
+}
+
+#Password{
+width:400px;
+}

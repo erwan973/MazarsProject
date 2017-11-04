@@ -1,0 +1,208 @@
+/*
+ * Start Bootstrap - Logo Nav (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+
+    padding-top: 30px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+}
+
+.navbar-fixed-top .nav {
+    padding: 15px ;
+
+}
+
+.navbar-fixed-top .navbar-brand {
+    padding:  15px;
+}
+
+@media(min-width:768px) {
+    body {
+        padding-top: 100px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+    }
+
+    .navbar-fixed-top .navbar-brand {
+        padding: 15px ;
+    }
+}
+
+img{
+    width: 70px;
+    height: 50px;
+}
+
+#ecritureMenuMember{
+font-style: italic;
+}
+
+#ecritureMenu{
+font-style: italic;
+}
+
+#imageMenu{
+position: relative;
+margin-top: -9px;
+margin-left: -12px;
+}
+
+/*Add Proposal*/
+#DescriptionAdd{
+font-style: italic;
+font-size: 50px;
+}
+#Add Proposal{
+ position:relative;
+     top:0px;
+    left:65px
+}
+#boutonRondAdd{
+     position:relative;
+     top:2px;
+}
+#tempsAdd{
+    width:100px;
+}
+#minutesAdd{
+     position:relative;
+     top:-28px;
+    left:110px
+}
+#SoumettreAdd{
+width: 100px;
+height: 50px;
+/*margin: 4px auto 0;*/
+}
+#SoumettreAdd2{
+width: 100px;
+height: 50px;
+/*margin: 4px auto 0;*/
+}
+/*Add Proposal*/
+
+
+
+/*Proxy*/
+/*#label{
+ position:relative;
+ left: -55px;
+}*/
+#name{
+position:relative;
+width: 400px;
+max-width: 100%
+/*top:-39px;*/
+}
+
+/*#name{
+position:relative;
+width: 500px;
+left: 0px;
+top:-1px;
+}*/
+
+#tailleBoutonProxy{
+position:relative;
+left: 5px;
+width: 150px;
+height: 65px;
+}
+/*Proxy*/
+
+
+
+/*Associe*/
+#EnregistrerAssocie{
+width: 100px;
+height: 50px;
+}
+/*Associe*/
+
+.result_prop{
+font-size = 46px;
+}
+
+/* EspaceMember*/
+#styleEcritureEspaceMember{
+font-style: italic;
+font-size: 25px;
+}
+#voter1{
+position: relative;
+left: 210px;
+top:-40px;
+}
+#voterEspaceMember{
+position: relative;
+left: 210px;
+top:-40px;
+}
+#proposals{
+font-size: 15px;
+}
+/* EspaceMember*/
+
+
+
+/* Details*/
+#DescriptionDetails{
+font-size: 25px;
+}
+
+table{
+border: 1px solid black;
+border-collapse: collapse; /* Les bordures du tableau seront collées (plus joli) */
+
+}
+
+th {
+background-color:grey;
+color: white;
+text-align: center;
+}
+
+td{
+background-color: gray;
+color:black;
+text-align: center;
+border: 1px solid black;
+width: 10%;
+
+}
+#DescriptionDetails2{
+  font-style: italic;
+  font-size: 50px;
+}
+
+/* Details*/
+
+
+/*Owner*/
+#proposalEspaceOwner{
+font-size: 25px;
+}
+#voter1EspaceOwner{
+position:relative;
+left: 215px;
+top:-40px;
+}
+#voter2EspaceOwner{
+position:relative;
+left: 210px;
+top:-40px;
+}
+#proposalsOwner{
+font-size: 15px;
+}
+#voter1Owner{
+position: relative;
+left: 210px;
+top:-40px;
+}
+#Add ProposalOwner{
+position:relative;
+top:0px;
+left:65px
+}
+/*Owner*/

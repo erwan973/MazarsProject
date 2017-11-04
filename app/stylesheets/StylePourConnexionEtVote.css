@@ -1,0 +1,98 @@
+/*body{
+	background-image: url("maz.jpg");
+	background-size: 85%;
+	text-align: center;
+
+	font-size: 60px;
+
+}*/
+
+
+#imageConnexion{
+width: 400px;
+}
+
+#imageee{
+width: 350px;
+}
+
+/*Page de Connexion*/
+
+
+#name{
+width:400px;
+max-width: 100%
+}
+
+#password{
+width:400px;
+max-width: 100%
+}
+
+#Connexion{
+width:150px;
+height: 50px;
+}
+
+#formConnexion{
+position: relative;
+top:-50px;
+}
+
+/*Page de Connexion*/
+
+
+/*Page de Vote*/
+/*#form{
+   position: relative;
+   top: 0px;
+   left: 0px;
+}*/
+
+
+#LesBoutons{
+position: relative;
+top: 0px;
+left: 100px;
+}
+
+#Yes{
+position: relative;
+top: 0px;
+left: -10px;
+width:70px;
+height: 50px;
+max-width: 100%;
+
+}
+
+#No{
+position: relative;
+top: 0px;
+left: 0px;
+width:70px;
+height: 50px;
+max-width: 100%;
+}
+
+#Joker{
+position: relative;
+top: 0px;
+left: 10px;
+width:70px;
+height: 50px;
+max-width: 100%;
+}
+
+#Description{
+font-style: italic;
+}
+
+#Time{
+font-style: italic;
+}
+#postionVote{
+position: relative;
+top:-60px;
+}
+/*Page de Vote*/
